@@ -65,5 +65,3 @@ Enter Quantity: 0.001
 2023-10-27 10:00:01 - OrderManager - INFO - Market Order Placed: ID=12345678, Status=NEW
 ```
 
-## Disclaimer
-This bot is designed for the **Binance Futures Testnet ONLY**. Do not use it with real funds on the mainnet without extensive testing and risk management implementation.
